@@ -3,7 +3,7 @@ img {
 }
  
 body {
-  font-family:knockout ;
+  font-family:arial;
   background:#59bfff;
   margin:0;
 }
@@ -17,7 +17,7 @@ header {
 
 header h1 {
   font-size:5vw;
-  color:mediumspringgreen;
+  color:black;
   font-family:Impact;
   text-shadow: 2px 2px 5px navy;
   margin: 0;
